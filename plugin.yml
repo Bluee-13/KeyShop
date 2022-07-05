@@ -1,0 +1,16 @@
+name: Key
+main: Key\KeyShop\Main
+version: 1.0
+api: 4.0.0
+author: Bluee-13
+description: "Plugins By ItzBluee02"
+
+commands:
+  keyshop:
+    description: "Plugins By ItzBluee02"
+    permission: keyshop.cmd
+
+permissions:
+  keyshop.cmd:
+    description: "permissions"
+    default: true
