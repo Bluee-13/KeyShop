@@ -1,0 +1,60 @@
+### [ KeyShop] ###
+
+# use § To Change Color
+# Membutuhkan Plugins EconomyAPI Sama Piggy Crate
+# Button Max Sampe 9 Jika Lebih Bakal Error
+# Subscribe My Chanel ItzBluee02
+
+# Nama Titlenya Terserah
+Title: "§0Key Shop"
+
+0:
+  Key:
+    Name: "Common" # Nama Key
+    Price: 5000 # Harga key
+  Button:
+    Name: "§lCommon Key" # Nama Tombol
+    Sub-Name: "Harga : Rp.5000" # Nama Sub Tombol
+  Message:
+    Succes: "§aSukses Membeli Key" # Message Ketika Berhasil Membeli Key
+    Failed: "§cUang Kamu Kurang" # Message Jika Gagal Membeli Key
+1:
+  Key:
+    Name: "Uncommon"
+    Price: 10000
+  Button:
+    Name: "§lUncommon Key"
+    Sub-Name: "Harga : Rp.10000"
+  Message:
+    Succes: "§aSukses Membeli Key"
+    Failed: "§cUang Kamu Kurang"
+ 2:
+  Key:
+    Name: "Vote"
+    Price: 20000
+  Button:
+    Name: "§lVote Key"
+    Sub-Name: "Harga : Rp.20000"
+  Message:
+    Succes: "§aSukses Membeli Key"
+    Failed: "§cUang Kamu Kurang"
+ 3:
+  Key:
+    Name: "Legendary"
+    Price: 50000
+  Button:
+    Name: "§lLegendary Key"
+    Sub-Name: "Harga : Rp.50000"
+  Message:
+    Succes: "§aSukses Membeli Key"
+    Failed: "§cUang Kamu Kurang"
+ 4:
+  Key:
+    Name: "Mythic"
+    Price: 100000
+  Button:
+    Name: "§lMythic Key"
+    Sub-Name: "Harga : Rp.100000"
+  Message:
+    Succes: "§aSukses Membeli Key"
+    Failed: "§cUang Kamu Kurang"
